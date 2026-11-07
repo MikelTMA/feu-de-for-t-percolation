@@ -4,7 +4,7 @@ Modélisation de la propagation d'un incendie dans une forêt par un **automate 
 
 | Feu classique | Avec coupe-feu |
 |---|---|
-| ![Feu classique](figures/feu_classique.gif) | ![Feu avec coupe-feu](figures/feu_coupe_feu.gif) |
+| ![Feu classique](feu_classique.gif) | ![Feu avec coupe-feu](feu_coupe_feu.gif) |
 
 *Jaune : arbre ; rouge : arbre en feu ; noir : arbre brûlé ; blanc : case vide. À droite, la ligne 50 est brûlée avant le départ du feu. Chaque animation va jusqu'à l'extinction de l'incendie, puis marque une pause sur l'état final.*
 
